@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-
+* [Start game](#start-game)
 * [Sources](#sources)
 * [Video Demo](#video-demo)
 
@@ -22,14 +22,11 @@ Project is created with:
 
 
 ## Setup
-Download the latest version of LÖVE from the [@website](https://love2d.org/), and install it.To make a minimal game, create a folder anywhere, and open up your favorite text editor.Create a new file in the folder you just created, and name it main.lua. Put the following code in the file, and save it.
+Download the latest version of LÖVE from the [@website](https://love2d.org/), and install it.
 
-Dont forget
+## Start game
+Download inicialization file `*.love` from [@GitHub Pages](https://github.com/PanchenkoI/Love2d). , then just a run the application. Play game and enjoy
 
-```
-project/ $ submit50 cs50/problems/2022/x/project
-
-```
 
 
 ## Sources
@@ -39,5 +36,15 @@ project/ $ submit50 cs50/problems/2022/x/project
 
 This game is inspired by video YouTube tutorial by [@Challacade](https://www.youtube.com/c/Challacade/videos)
 
-## Video Demo
-  <URL HERE>
+## Video Demo 
+URL https://www.loom.com/share/b1a9e1282554418ba3ee36659212043c
+  
+  
+  
+  
+GitGub Page
+
+```
+https://github.com/PanchenkoI/Love2d
+
+```
